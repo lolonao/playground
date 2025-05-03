@@ -1,0 +1,25 @@
+[project]
+name = "0425"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.13.3",
+    "black>=25.1.0",
+    "bs4>=0.0.2",
+    "duckdb>=1.2.1",
+    "google-genai>=1.10.0",
+    "httpx>=0.28.1",
+    "icecream>=2.1.4",
+    "lxml>=5.3.1",
+    "pandas>=2.2.3",
+    "pytest>=8.3.5",
+    "python-dotenv>=1.1.0",
+    "pyyaml>=6.0.2",
+    "requests>=2.32.3",
+    "ruff>=0.11.6",
+    "streamlit>=1.44.1",
+]
+
+

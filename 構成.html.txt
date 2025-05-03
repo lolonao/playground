@@ -1,0 +1,107 @@
+<div class="container cKV3cM">
+    <div class="shopee-filter-panel">
+        <div class="shopee-category-list"><a class="shopee-category-list__header"
+
+    <div role="main" class="u0v0QW">
+        <section aria-label="" class="shopee-search-item-result">
+            <ul class="row shopee-search-item-result__items" style="">
+                <li class="col-xs-2-4 shopee-search-item-result__item" data-sqe="item">
+                <li class="col-xs-2-4 shopee-search-item-result__item" data-sqe="item"> 
+
+------------------------
+
+情報取得対象となるブロック
+```
+<div class="container cKV3cM">
+    <div role="main" class="u0v0QW">
+        <section aria-label="" class="shopee-search-item-result">
+            <ul class="row shopee-search-item-result__items" style="">
+                <li class="col-xs-2-4 shopee-search-item-result__item" data-sqe="item">
+                <li class="col-xs-2-4 shopee-search-item-result__item" data-sqe="item"> 
+```
+
+```
+<li class="col-xs-2-4 shopee-search-item-result__item" data-sqe="item">
+
+    <div class="shopee_ic" style="display: contents;">
+        <div class="h-full duration-100 ease-sharp-motion-curve hover:shadow-hover active:shadow-active hover:-translate-y-[1px] active:translate-y-0 relative hover:z-[10] box-content relative group border border-solid hover:border-shopee-primary border border-solid border-shopee-black9"
+            aria-hidden="true"><a class="contents"
+                href="https://shopee.sg/AdPower-Sonic-Hexagon-SS-4-pcs.-Available-in-3-colors-Sound-quality-improvement-sheets-for-audio-equipment-car-audio-and-instruments-Static-electricity-removal-Supervised-by-recording-engineers-i.423790442.29803864590?sp_atk=1ea7c9e0-715f-4a46-aa4a-c76e98edbd8a&amp;xptdk=1ea7c9e0-715f-4a46-aa4a-c76e98edbd8a">
+                <div class="flex flex-col bg-white cursor-pointer h-full">
+                    <div class="relative z-0 w-full pt-full"><img
+                            src="Buy%20Audio%20Products%20Online%20-%20Mobile%20&amp;%20Gadgets%20Deals%20_%20Shopee%20Singapore_files/sg-11134207-7rd5t-lx6n405f7jpm4f_tn.webp"
+                            alt="AdPower Sonic Hexagon [SS] 4 pcs. / Available in 3 colors / Sound quality improvement sheets for audio equipment, car audio and instruments / Static electricity removal / Supervised by recording engineers"
+                            class="inset-y-0 w-full h-full pointer-events-none object-contain absolute"
+                            loading="lazy" aria-hidden="true">
+                        <div class="absolute bottom-0 left-0 z-10 w-full w-full h-hull"
+                            aria-label="image overlay,src:https://down-sg.img.susercontent.com/file/sg-11134258-7rdyr-m18bnpzriogh57">
+                            <img src="Buy%20Audio%20Products%20Online%20-%20Mobile%20&amp;%20Gadgets%20Deals%20_%20Shopee%20Singapore_files/sg-11134258-7rdyr-m18bnpzriogh57.png"
+                                class="w-full" alt="custom-overlay"></div>
+                        <div class="absolute bottom-0 right-0 z-30 flex pr-1 pb-1" aria-hidden="true">
+                            <div data-testid="badge-video" class="w-5 h-5 stroke-none"
+                                style="background-image: url(&quot;https://deo.shopeemobile.com/shopee/modules-federation/live/0/shopee__item-card-standard-v2/0.1.53/pc/43bd6a890841685e2fea.svg&quot;); background-size: cover; background-repeat: no-repeat;">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="p-2 flex-1 flex flex-col justify-between">
+                        <div class="space-y-1 mb-1 flex-1 flex flex-col justify-between min-h-[4rem]">
+                            <div class="line-clamp-2 break-words min-w-0 min-h-[2.5rem] text-sm"><img
+                                    src="Buy%20Audio%20Products%20Online%20-%20Mobile%20&amp;%20Gadgets%20Deals%20_%20Shopee%20Singapore_files/f9e8bb78f6ee4593aaeb.png"
+                                    alt="flag-label" class="mr-0.5 mb-0.5 inline-block h-sp14">AdPower
+                                Sonic Hexagon [SS] 4 pcs. / Available in 3 colors / Sound quality
+                                improvement sheets for audio equipment, car audio and instruments /
+                                Static electricity removal / Supervised by recording engineers</div>
+                            <div class="flex items-center">
+                                <div
+                                    class="flex-shrink min-w-0 mr-1 truncate text-shopee-primary flex items-center font-medium">
+                                    <span data-testid="a11y-label" aria-label="promotion price"></span>
+                                    <div class="truncate flex items-baseline"><span
+                                            class="text-xs/sp14 font-medium mr-px">$</span><span
+                                            class="font-medium text-base/5 truncate">35.73</span><span
+                                            class="text-xs/sp14 font-medium mr-px"></span></div>
+                                </div>
+                                <div
+                                    class="text-shopee-primary font-medium bg-shopee-pink py-0.5 px-1 text-sp10/3 h-4 rounded-[2px] shrink-0 mr-1">
+                                    <span data-testid="a11y-label" aria-label="-10%"></span>-10%</div>
+                                <div class="ml-auto shrink-0 max-h-5 flex flex-row space-x-1 items-center"
+                                    aria-hidden="true"><img
+                                        src="Buy%20Audio%20Products%20Online%20-%20Mobile%20&amp;%20Gadgets%20Deals%20_%20Shopee%20Singapore_files/57e64fcedef5ee8fe4e09931f319cf98.png"
+                                        alt="icon in price" class="max-h-5"
+                                        style="height: 0.875rem; width: 1.75rem;"></div>
+                            </div>
+                        </div>
+                        <div class="flex-1 flex flex-col justify-between">
+                            <div></div>
+                            <div class="mb-2 flex items-center space-x-1">
+                                <div class="flex-none flex items-center space-x-0.5 h-sp14"
+                                    aria-hidden="true"><img
+                                        src="Buy%20Audio%20Products%20Online%20-%20Mobile%20&amp;%20Gadgets%20Deals%20_%20Shopee%20Singapore_files/d7099d3fd1dfdaf705ab.svg"
+                                        style="height: 0.625rem; width: 0.625rem;"
+                                        alt="rating-star-full">
+                                    <div class="text-shopee-black87 text-xs/sp14 flex-none">4.9</div>
+                                </div>
+                                <div class="ml-1 h-sp10 scale-x-50 border-l border-shopee-black9"></div>
+                                <div class="truncate text-shopee-black87 text-xs min-h-4">30 sold/month
+                                </div>
+                            </div>
+                        </div>
+                        <div class="flex items-center space-x-1 max-w-full"
+                            style="visibility: visible;">
+                            <div
+                                class="flex-shrink min-w-0 truncate text-shopee-black54 font-extralight text-sp10">
+                                <img src="Buy%20Audio%20Products%20Online%20-%20Mobile%20&amp;%20Gadgets%20Deals%20_%20Shopee%20Singapore_files/5dd7b4560d0e2d3190e8.svg"
+                                    alt="location-icon" class="inline pointer-events-none align-middle"
+                                    style="height: 0.625rem; width: 0.5rem;"><span
+                                    data-testid="a11y-label" aria-label="location-Japan"></span><span
+                                    class="ml-[3px] align-middle">Japan</span></div>
+                        </div>
+                    </div>
+                </div>
+            </a><a
+                class="opacity-0 group-hover:opacity-100 duration-100 absolute z-[-1] top-[calc(100%-6px)] pt-[6px] -left-px  box-content w-full h-[1.875rem] bg-shopee-primary text-white text-center text-sm/[1.875rem] border border-solid border-shopee-primary rounded-bl-sm rounded-br-sm "
+                href="https://shopee.sg/find_similar_products?catid=100535&amp;itemid=29803864590&amp;shopid=423790442">Find
+                Similar</a></div>
+    </div>
+</li>
+
+```
